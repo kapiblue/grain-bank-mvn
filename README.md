@@ -1,2 +1,3 @@
 # grain-bank-mvn
-SE lab 3 project
+Software Engineering lab 3 project
+Kacper Dobek 148247
